@@ -3,6 +3,7 @@ title: "Initial Set-up"
 author: "Page Piccinini"
 date: "`r Sys.Date()`"
 output: html_document
+layout: default
 ---
 
 # Introduction
