@@ -2,7 +2,7 @@
 title: "Initial Set-up"
 author: "Page Piccinini"
 date: "`r Sys.Date()`"
-output: html_document
+theme: null
 css: stylesheets/stylesheet.css
 ---
 
