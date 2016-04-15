@@ -1,6 +1,6 @@
 # Introduction
 
-These files form the CogStyle style guide for reccomendations on project managmenet and analysis. To see the full manual go to [CogStyle website](cogstyle.github.io). Below are instructions for collaborators.
+These files form the CogStyle style guide for reccomendations on project managmenet and analysis. To see the full manual go to [CogStyle website](http://cogstyle.github.io). Below are instructions for collaborators.
 
 # Making New Pages
 
