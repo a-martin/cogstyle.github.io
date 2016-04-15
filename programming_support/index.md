@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "Programming Support"
-date: 2014-04-30
 ---
 
-# Introduction
+This section discusses best practices for specific of programming, both general principles across languages and specific reccomenations within languages. There are severl subpages, but for now there are three specific ones:
 
-Here we talk about programming support.
+* code commenting
+* functions
+* loops [note, this is currently blank]
 
-# Extra Stuff
-
-This is mostly a test.
+Use the links above to learn more about each of these specific principles.
