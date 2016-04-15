@@ -30,3 +30,11 @@ Some coding.
 ```
 
 At the moment the single "#" is reserved for the title. This will hopefully be fixed in the near future.
+
+# Adding Website Internal Links
+
+Links to other pages in the site can be added without the full link title, as in the example below.
+
+```
+Click [here](/programming_support/code_commenting.html) for information on code commenting.
+```
